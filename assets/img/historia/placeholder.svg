@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#efe3c8"/>
+  <g fill="#A16207" opacity="0.5">
+    <path d="M200 190 C 160 150, 140 120, 160 100 C 175 85, 195 95, 200 115 C 205 95, 225 85, 240 100 C 260 120, 240 150, 200 190 Z"/>
+  </g>
+  <text x="50%" y="90%" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#7a5a1e">
+    Reemplaza por tu foto
+  </text>
+</svg>
